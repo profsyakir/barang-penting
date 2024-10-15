@@ -1,0 +1,2 @@
+# barang-penting
+barang penting
